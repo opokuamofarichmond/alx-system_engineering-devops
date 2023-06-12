@@ -1,0 +1,18 @@
+total 64
+drwxr-xr-x 2 root root   334 Jun 12 16:36 .
+drwxr-xr-x 6 root root   121 Jun 12 08:54 ..
+-rwxr-xr-x 1 root root    32 Jun 12 09:25 0-hello_world
+-rwxr-xr-x 1 root root    29 Jun 12 09:56 1-confused_smiley
+-rwxr-xr-x 1 root root    28 Jun 12 10:05 2-hellofile
+-rwxr-xr-x 1 root root    39 Jun 12 10:21 3-twofiles
+-rwxr-xr-x 1 root root    29 Jun 12 10:35 4-lastlines
+-rwxr-xr-x 1 root root    29 Jun 12 10:42 5-firstlines
+-rwxr-xr-x 1 root root    36 Jun 12 15:24 6-third_line
+-rw------- 1 root root 12288 Jun 12 10:47 .6-third_line.swp
+-rwxr-xr-x 1 root root    84 Jun 12 15:57 7-file
+-rwxr--r-- 1 root root    36 Jun 12 16:35 8-cwd_state
+-rwxr--r-- 1 root root    44 Jun 12 16:07 9-duplicate_last_line
+-rw-r--r-- 1 root root    12 Jun 12 15:58  \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root     1 Jun 12 16:08 iacta
+-rw-r--r-- 1 root root     0 Jun 12 16:36 ls_cwd_content
+-rw-r--r-- 1 root root    44 Jun 12 08:57 README.md
